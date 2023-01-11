@@ -8,7 +8,7 @@
 
 #### **Programming languages that I used:**
 -	**Pycharm** – software for python language writing.
-- **WebStorm** - software for web development (HTML and CSS).
+-   **WebStorm** - software for web development (HTML and CSS).
 -	**MySql WorkBench** – software for holding and handling the database.
 -	**Python și Django** – the backend side.
 -	**HTML și CSS** – the frontend side (AdminPanel, templates, etc…).
@@ -27,7 +27,7 @@
 -	**Decouple** – a package used for hiding sensitive data in .env files so that not to be displayed on GitHub.
 -	**Bootstrap Show Password** – a package used for hiding the password in the register and login fields. (Do not need installment, only the adding of link in base.html).
 
-### **Content:**
+### **Continut:**
 
 1.	**Project** - The creation of the Povestioare project in Pycharm.
 2.	**Django** – Install, and create of a new Django project in the terminal.
@@ -70,80 +70,98 @@
 25.	**Similar Post** – sections with similar articles on the detailed page of posts.
 26.	**Search** – option of searching based on python queries.
 27.	**Sitemap** – create a sitemap which can be needed to RSS.
-28.	**Add Post** – option to logged users to add their own posts.
-
+28.	**Adăugarea articolelor (Add Post)** – option to logged users to add their own posts.
+29. **Favorite** – option for the user to save his prefereted post to acces them more easily.
+30. **Category** – option to categorized the post in groups.
 <br>
 <h2 align="center" style="color:#880606;">Project Images</h2>
 <br>
 <h3 style="color:#DAD9D9;">Admin Panel - customized with Jazzmin:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Admin-Panel.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Admin-Panel.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">HomePage:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/HomePage-1.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Homepage.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Post Detailed:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Post-Details.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Detail-Post.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Profile Page:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Profile-1.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Profile-Page.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Login Page:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Login.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Login.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Register Page:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Register.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Register.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Add Post Page:</h3>
 <br>
-
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Add-Post-1.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Add-Post.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Users Posts Page:</h3>
 <br>
-
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Users-Posts.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/User-Posts.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Update Posts Page:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Update-Post.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Update-Posts.png" width="900"/>
 </div>
 
 <br>
 <h3 style="color:#DAD9D9;">Delete Posts Page:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2022/12/Delete-Post.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Delete-Post.png" width="900"/>
+</div>
+
+<br>
+<h3 style="color:#DAD9D9;">Favorite Posts Page:</h3>
+<br>
+<div style="text-align: center;">
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Favorite.png" width="900"/>
+</div>
+
+<br>
+<h3 style="color:#DAD9D9;">Categories Posts Page:</h3>
+<br>
+<div style="text-align: center;">
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Category-page.png" width="900"/>
 </div>
 <h1 align="center" style="color:#880606;">Thank you very much for everthing!</h1>
 <p align="center">@ByMihail32!</p>
+
+
+
+
+
