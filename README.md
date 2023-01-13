@@ -86,7 +86,7 @@
 <h3 style="color:#DAD9D9;">HomePage:</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Homepage-1.png" width="900"/>
+    <img src="https://paxvobis.ro/wp-content/uploads/2023/01/Homepage.png" width="900"/>
 </div>
 
 <br>
